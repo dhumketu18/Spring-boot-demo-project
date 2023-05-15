@@ -1,0 +1,15 @@
+[submodule "03-actuator-demo"]
+	path = 03-actuator-demo
+	url = https://github.com/dhumketu18/03-actuator-demo.git
+[submodule "01-Qualifier-Demo"]
+	path = 01-Qualifier-Demo
+	url = https://github.com/dhumketu18/01-Qualifier-Demo.git
+[submodule "04-crud-demo"]
+	path = 04-crud-demo
+	url = https://github.com/dhumketu18/04-crud-demo.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/dhumketu18/demo.git
+[submodule "employee"]
+	path = employee
+	url = https://github.com/dhumketu18/employee.git
